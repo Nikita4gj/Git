@@ -1,6 +1,6 @@
-def Hello_World(a):
+def HelloWorld(a):
     print(a)
 
 
 
-Hello_World("print")
+HelloWorld("print")
